@@ -1,0 +1,2 @@
+pip install wheel telebot pytelegrambotapi
+pip install requests
