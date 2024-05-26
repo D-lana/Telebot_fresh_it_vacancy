@@ -2,3 +2,4 @@ dict_vacancy
 __pycache__
 config.txt
 auth_data.py
+venv/
